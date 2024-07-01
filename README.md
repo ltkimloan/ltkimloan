@@ -1,5 +1,5 @@
 
-<img align="right" width="64" src="https://github.com/.png" />
+<img align="right" width="64" src="images/avatar.jpg" />
 
 
 <h2 align="center">Hi 👋, I'm ltkimloan</h2>
